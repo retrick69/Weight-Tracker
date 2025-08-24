@@ -11,76 +11,60 @@ TDEE ≈ 1606 × 1.65 = 2650 kcal/day
 | Protein   | 130g  | 520 kcal      |
 | Fat       | 81g   | 725 kcal      |
 | Carbs     | 414g  | 1655 kcal     |
-| **Total** | —     | **2900 kcal** |
+| **Total** | —     | **2900 kcal -3000 kcal** |
 
-Surplus: ~250 kcal/day
+Surplus: ~250 - 300 kcal/day
 Target gain: ~0.3–0.4 kg/week
 Macros: High carb, moderate fat, enough protein to build
 
 ## WEIGHT_TARGET
 
-| DATE    | ACTUAL  | TARGET  |
-| ------- | ------- | ------- |
-| JULY-30 | 63.50kg | 63.50kg |
-| JULY-31 |         | 63.56kg |
-| AUG-1   |         | 63.62kg |
-| AUG-2   |         | 63.68kg |
-| AUG-3   |         | 63.74kg |
-| AUG-4   |         | 63.80kg |
-| AUG-5   |         | 63.86kg |
-| AUG-6   |         | 63.92kg |
-| AUG-7   |         | 63.98kg |
-| AUG-8   |         | 64.04kg |
-| AUG-9   |         | 64.10kg |
-| AUG-10  |         | 64.16kg |
-| AUG-11  |         | 64.22kg |
-| AUG-12  |         | 64.28kg |
-| AUG-13  |         | 64.34kg |
-| AUG-14  |         | 64.40kg |
-| AUG-15  |         | 64.46kg |
-| AUG-16  |         | 64.52kg |
-| AUG-17  |         | 64.58kg |
-| AUG-18  |         | 64.64kg |
-| AUG-19  |         | 64.70kg |
-| AUG-20  |         | 64.76kg |
-| AUG-21  |         | 64.82kg |
-| AUG-22  |         | 64.88kg |
-| AUG-23  |         | 64.94kg |
-| AUG-24  |         | 65.00kg |
-| AUG-25  |         | 65.06kg |
-| AUG-26  |         | 65.12kg |
-| AUG-27  |         | 65.18kg |
-| AUG-28  |         | 65.24kg |
-| AUG-29  |         | 65.30kg |
-| AUG-30  |         | 65.36kg |
-| AUG-31  |         | 65.42kg |
-| SEP-1   |         | 65.48kg |
-| SEP-2   |         | 65.54kg |
-| SEP-3   |         | 65.60kg |
-| SEP-4   |         | 65.66kg |
-| SEP-5   |         | 65.72kg |
-| SEP-6   |         | 65.78kg |
-| SEP-7   |         | 65.84kg |
-| SEP-8   |         | 65.90kg |
-| SEP-9   |         | 65.96kg |
-| SEP-10  |         | 66.02kg |
-| SEP-11  |         | 66.08kg |
-| SEP-12  |         | 66.14kg |
-| SEP-13  |         | 66.20kg |
-| SEP-14  |         | 66.26kg |
-| SEP-15  |         | 66.32kg |
-| SEP-16  |         | 66.38kg |
-| SEP-17  |         | 66.44kg |
-| SEP-18  |         | 66.50kg |
-| SEP-19  |         | 66.56kg |
-| SEP-20  |         | 66.62kg |
-| SEP-21  |         | 66.68kg |
-| SEP-22  |         | 66.74kg |
-| SEP-23  |         | 66.80kg |
-| SEP-24  |         | 66.86kg |
-| SEP-25  |         | 66.92kg |
-| SEP-26  |         | 66.98kg |
-| SEP-27  |         | 67.04kg |
-| SEP-28  |         | 67.10kg |
-| SEP-29  |         | 67.16kg |
-| SEP-30  |         | 67.22kg |
+| DATE   | ACTUAL  | TARGET  |
+| ------ | ------- | ------- |
+| AUG-25 | 63.25kg | 63.32kg |
+| AUG-26 |         | 63.38kg |
+| AUG-27 |         | 63.44kg |
+| AUG-28 |         | 63.50kg |
+| AUG-29 |         | 63.56kg |
+| AUG-30 |         | 63.62kg |
+| AUG-31 |         | 63.68kg |
+| SEP-1  |         | 63.74kg |
+| SEP-2  |         | 63.80kg |
+| SEP-3  |         | 63.86kg |
+| SEP-4  |         | 63.92kg |
+| SEP-5  |         | 63.98kg |
+| SEP-6  |         | 64.04kg |
+| SEP-7  |         | 64.10kg |
+| SEP-8  |         | 64.16kg |
+| SEP-9  |         | 64.22kg |
+| SEP-10 |         | 64.28kg |
+| SEP-11 |         | 64.34kg |
+| SEP-12 |         | 64.40kg |
+| SEP-13 |         | 64.46kg |
+| SEP-14 |         | 64.52kg |
+| SEP-15 |         | 64.58kg |
+| SEP-16 |         | 64.64kg |
+| SEP-17 |         | 64.70kg |
+| SEP-18 |         | 64.76kg |
+| SEP-19 |         | 64.82kg |
+| SEP-20 |         | 64.88kg |
+| SEP-21 |         | 64.94kg |
+| SEP-22 |         | 65.00kg |
+| SEP-23 |         | 65.06kg |
+| SEP-24 |         | 65.12kg |
+| SEP-25 |         | 65.18kg |
+| SEP-26 |         | 65.24kg |
+| SEP-27 |         | 65.30kg |
+| SEP-28 |         | 65.36kg |
+| SEP-29 |         | 65.42kg |
+| SEP-30 |         | 65.48kg |
+| OCT-1  |         | 65.54kg |
+| OCT-2  |         | 65.60kg |
+| OCT-3  |         | 65.66kg |
+| OCT-4  |         | 65.72kg |
+| OCT-5  |         | 65.78kg |
+| OCT-6  |         | 65.84kg |
+| OCT-7  |         | 65.90kg |
+| OCT-8  |         | 65.96kg |
+| OCT-9  |         | 66.02kg |
+| OCT-10 |         | 66.08kg |
