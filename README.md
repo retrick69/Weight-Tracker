@@ -29,9 +29,9 @@ Macros: High carb, moderate fat, enough protein to build
 | AUG-30 | MISSED  | 63.62kg |
 | AUG-31 | 63.70kg | 63.68kg |
 | SEP-1  | 63.80kg | 63.74kg |
-| SEP-2  |         | 63.80kg |
-| SEP-3  |         | 63.86kg |
-| SEP-4  |         | 63.92kg |
+| SEP-2  | 64.30kg | 63.80kg |
+| SEP-3  | MISSED  | 63.86kg |
+| SEP-4  | 64.40kg | 63.92kg |
 | SEP-5  |         | 63.98kg |
 | SEP-6  |         | 64.04kg |
 | SEP-7  |         | 64.10kg |
